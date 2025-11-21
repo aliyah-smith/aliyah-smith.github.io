@@ -23,12 +23,12 @@ name: Aliyah Smith
 position: PhD Candidate
 email: aliyah1@stanford.edu
 description: |
-  I am a PhD Candidate in the Aeronautics & Astronautics Department at Stanford University, specializing in Robotics. I am a member of the Assistive Robotics and Manipulation Lab in the Mechanical Engineering Department, advised by Prof. <a href="https://me.stanford.edu/people/monroe-kennedy">Monroe Kennedy III</a>.
+  I am a PhD Candidate in the Department of Aeronautics & Astronautics at Stanford University, specializing in Robotics. I am a member of the Assistive Robotics and Manipulation Lab in the Department of Mechanical Engineering, advised by Prof. <a href="https://me.stanford.edu/people/monroe-kennedy">Monroe Kennedy III</a>.
   I received my B.S. from the <a href="https://umbc.edu/">University of Maryland, Baltimore County</a> in 2019 and my M.S. from Stanford University in 2021.
 
-  My current research interests are primarily in Human-Robot Interaction and AR/VR interface design.
+  My current research interests are primarily in Human-Robot Interaction, Human Factors, and AR/VR interface design.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://aliyahsmith.com" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://aliyah-smith.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: aliyahsmith_22
 github_username: aliyah-smith
 google_scholar: p1_weMUAAAAJ
