@@ -35,7 +35,8 @@
   project_page: "https://splatmover.github.io/"
   github: StanfordMSL/Splat-MOVER
   arxiv: 2405.04378
-  image: splatmover.PNG
+  image: splatmover2.PNG
+  image_mouseover: splatmover.mp4
   authors:
     - olashorinwa
     - johntucker
