@@ -1,5 +1,5 @@
 - id: audioar
-  title: "The Role of Consequential and Functional Sound in Human-Robot Interaction: Toward Audio Augmented Reality Interfacess"
+  title: "The Role of Consequential and Functional Sound in Human-Robot Interaction: Toward Audio Augmented Reality Interfaces"
   description: "In this three-part study, we examined the effects of consequential and functional sounds on human perception and behavior in HRI, including a novel exploration of spatial sound through localization and handover tasks."
   project_page: "https://aliyah-smith.github.io/audio-augmented-reality/"
   arxiv: 2511.15956
@@ -26,6 +26,18 @@
     - shuransong
     - dorsasadigh
     - allisonokamura
+
+- id: teleop
+  title: "Towards Accessible Robot Control: Comparing Kinesthetic Teaching, SpaceMouse Teleoperation, and a Mixed Reality Interface"
+  description: "A comprehensive mixed-methods study on two teleoperation methods and one non-teleoperation approach for robot control."
+  project_page: "https://aliyah-smith.github.io/human-centered-teleop/"
+  arxiv: 2409.18394
+  github: armlabstanford/TowardsAccessibleRobotControl
+  image: teleop.PNG
+  image_mouseover: teleop.mp4
+  authors:
+    - aliyahsmith
+    - monroekennedy
 
 
 - id: splatmover
